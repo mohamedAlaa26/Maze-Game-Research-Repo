@@ -22,7 +22,7 @@ You can view the demo video of the Hand Gesture Classification project below:
 [![Watch the video](https://yourdomain.com/thumbnail.jpg)](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing)
 
 ## Get started :
-1. Clone the Repository
+1. Clone the Repository + also you need an input video (containing the Gestures you need to recognize)
 2. Install the Required Dependencies
 pip install numpy pandas scikit-learn xgboost opencv-python optuna matplotlib seaborn
 3. Run
