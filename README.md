@@ -14,3 +14,9 @@ The project also incorporates **hyperparameter tuning** using **Optuna** to opti
   - **F1-score**
 
 The goal of this project is to classify hand gesture images accurately and efficiently using machine learning techniques, and to showcase the impact of hyperparameter optimization on model performance.
+
+## Project Demo Video
+
+You can view the demo video of the Hand Gesture Classification project below:
+
+[![Watch the video](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing)
