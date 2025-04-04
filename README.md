@@ -19,4 +19,4 @@ The goal of this project is to classify hand gesture images accurately and effic
 
 You can view the demo video of the Hand Gesture Classification project below:
 
-[![Watch the video](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing)
+[![Watch the video](https://yourdomain.com/thumbnail.jpg)](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing)
