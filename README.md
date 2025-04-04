@@ -1,6 +1,6 @@
 # Hand Gesture Classification with Machine Learning
 
-This project implements machine learning models for hand gesture classification. It includes preprocessing of gesture data, model training, and evaluation using techniques like Support Vector Machines (SVM), Random Forest, and Logistic Regression.
+This project implements machine learning models for hand gesture classification. It includes preprocessing of gesture data, model training, and evaluation using techniques like Support Vector Machines (SVM), Random Forest, and XGboost .
 
 The project also incorporates **hyperparameter tuning** using **Optuna** to optimize model performance and achieve the best results.
 
@@ -20,3 +20,9 @@ The goal of this project is to classify hand gesture images accurately and effic
 You can view the demo video of the Hand Gesture Classification project below:
 
 [![Watch the video](https://yourdomain.com/thumbnail.jpg)](https://drive.google.com/file/d/1z-bhjuNZE_OnqxmvvUxLM7anYrn1LoS2/view?usp=sharing)
+
+## Get started :
+1. Clone the Repository + also you need an input video (containing the Gestures you need to recognize)
+2. Install the Required Dependencies
+pip install numpy pandas scikit-learn xgboost opencv-python optuna matplotlib seaborn
+3. Run
