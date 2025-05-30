@@ -1,0 +1,15 @@
+artifact_uri: file:///f:/iti/Machine%26AI_track/ML_regression_classification/ML_project3/mlruns/0/096511bb545f41b7bf372a654dc426b0/artifacts
+end_time: 1748612745981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 096511bb545f41b7bf372a654dc426b0
+run_name: orderly-lark-725
+run_uuid: 096511bb545f41b7bf372a654dc426b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748612695009
+status: 3
+tags: []
+user_id: hp
