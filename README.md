@@ -15,6 +15,20 @@ The project also incorporates **hyperparameter tuning** using **Optuna** to opti
 
 The goal of this project is to classify hand gesture images accurately and efficiently using machine learning techniques, and to showcase the impact of hyperparameter optimization on model performance.
 
+## Why XGboost is the model choosen ?
+
+Best Performing Model Based on the evaluation metrics, the Optimized XGBoost model outperformed the other models with the highest accuracy, precision, recall, and F1-score. The optimized XGBoost achieved:
+
+Accuracy: 0.9733
+
+Precision: 0.9736
+
+Recall: 0.9733
+
+F1-score: 0.9734
+
+This makes XGBoost the best performing model for hand gesture classification in this project.
+
 ## Project Demo Video
 
 You can view the demo video of the Hand Gesture Classification project below:
